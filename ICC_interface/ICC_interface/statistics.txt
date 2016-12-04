@@ -1,0 +1,14 @@
+Undetermined,0
+Nike,3813
+Titleist,6279
+Bridgestone,660
+Noodle,1855
+Callaway,1177
+Pinnacle,4762
+Precept,942
+Srixon,934
+Topflight,30183
+Taylormade,574
+NXTTour,332
+ProV1,398
+ProV1X,267
